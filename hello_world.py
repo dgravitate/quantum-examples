@@ -10,6 +10,9 @@ This module demonstrates creating a basic 1-qubit quantum circuit, applying
 a Hadamard gate to the qubit to achieve a superposition state, and measuring
 the circuit's output
 
+For more information about this script, read the article at
+https://medium.com/@graveybeard/quantum-hello-world-a-beginners-qiskit-experiment-for-classical-devs-67f82f27bc86
+
 Functions:
     get_service: Saves and retrieves the Qiskit Runtime service instance configured
         with IBM Quantum API credentials.
